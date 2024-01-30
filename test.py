@@ -1,5 +1,5 @@
 import openai
-openai.api_key = ""  # Replace with your actual key
+  # Replace with your actual key
 
 def generate_code(prompt):
     try:
